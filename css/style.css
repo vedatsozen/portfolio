@@ -3,6 +3,12 @@
     box-sizing: border-box;
 }
 
+html {
+    
+    scroll-behaviour:smooth;
+
+}
+
 /* Clear fix hack */
 .clearfix:after {
     content: ".";
